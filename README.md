@@ -1,5 +1,5 @@
-# learning-technical-communication
-Learning Technical Communication
+learning-technical-communication
+# Learning Technical Communication
 
 ```
 learning-technical-communication/
